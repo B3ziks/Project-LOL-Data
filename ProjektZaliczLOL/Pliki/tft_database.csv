@@ -1,0 +1,52 @@
+Champion,Origin,Class,Class2,Cost,DamagePerSecond,AttackSpeed,Damage,HP,Mana,Armor,MagicResist
+Aatrox,Demon,Blademaster,,3,42,0.65,65,700,75,25,20
+Ahri,Wild,Sorcerer,,2,28,0.55,50,450,75,20,20
+Akali,Ninja,Assassin,,4,49,0.7,70,650,25,20,20
+Anivia,Glacial ,Elementalist,,5,24,0.60,40,650,100,20,20
+Ashe,Glacial ,Elementalist,,3,46,0.7,65,550,100,20,20
+Aurelion Sol,Glacial ,Elementalist,,4,24,0.60,40,650,125,20,20
+Blitzcrank,Robot,Brawler,,2,25,0.50,50,600,125,35,20
+Brand,Demon,Elementalist,,4,36,0.60,60,700,425,25,20
+Braum,Glacial ,Guardian,,2,24,0.60,40,750,50,75,20
+Chogath,Void,Brawler,,4,42,0.60,70,1000,150,20,20
+Darius,Imperial,Knight,,1,25,0.50,50,600,100,40,20
+Draven,Imperial,Blademaster,,4,56,0.75,75,700,50,25,20
+Elise,Demon,Shapeshifter,,1,24,0.60,40,450,100,20,20
+Evelynn,Demon,Assassin,,3,42,0.60,70,550,75,20,20
+Fiora,Noble,Blademaster,,3,40,1,40,400,75,25,20
+Gankplank,Pirate,Gunslinger,Blademaster,3,36,0.65,55,700,100,20,20
+Garen,Noble,Knight,,1,30,0.60,50,600,100,40,20
+Gnar,Wild,Yordle,Shapeshifter,4,35,0.7,50,750,125,30,20
+Graves,Pirate,Gunslinger,,1,30,0.55,55,450,0,20,20
+Karthus,Phantom,Sorcerer,,5,42,0.65,65,850,85,25,20
+Kassadin,Void,Sorcerer,,1,33,0.60,55,550,0,25,20
+Katarina,Imperial,Assassin,,3,30,0.60,50,450,100,20,20
+Kayle,Noble,Knight,,5,66,1,60,800,100,40,20
+Kennen,Ninja,Yordle,Elementalist,3,42,0.65,65,550,150,20,20
+Khazix,Void,Assassin,,1,33,0.60,55,500,50,20,20
+Kindred,Phantom,Ranger,,4,39,0.65,60,600,150,20,20
+Leona,Noble,Guardian,,4,25,0.55,45,750,100,100,20
+Lissandra,Glacial ,Elementalist,,2,24,0.60,40,450,150,20,20
+Lucian,Noble,Gunslinger,,2,42,0.65,65,600,35,25,20
+Lulu,Yordle,Sorcerer,,2,30,0.60,50,500,150,20,20
+Miss Fortune,Pirate,Gunslinger,,5,64,0.85,75,650,100,20,20
+Mordekaiser,Phantom,Knight,,1,25,0.50,50,550,100,40,20
+Morgana,Demon,Sorcerer,,3,30,0.60,50,650,150,20,20
+Nidale,Wild,Shapeshifter,,1,33,0.65,50,500,100,20,20
+Poppy,Yordle,Knight,,3,25,0.50,50,800,75,40,20
+Pyke,Pirate,Assassin,,2,36,0.60,60,600,125,25,20
+Reksai,Void,Brawler,,2,33,0.65,50,650,150,20,20
+Rengar,Wild,Assassin,,3,42,0.60,70,550,75,20,20
+Sejuani,Glacial ,Knight,,4,25,0.55,45,850,150,40,20
+Shen,Ninja,Blademaster,,2,46,0.7,65,650,150,30,20
+Shyvana,Dragon,Shapeshifter,,3,35,0.7,50,650,100,30,20
+Swain,Imperial,Demon,Shapeshifter,5,42,0.65,65,850,100,25,20
+Tristana,Yordle,Gunslinger,,1,33,0.65,50,500,50,20,20
+Twisted Fate,Pirate,Sorcerer,,2,30,0.75,40,450,50,20,20
+Varus,Demon,Ranger,,2,35,0.7,50,500,75,25,20
+Vayne,Noble,Ranger,,1,30,0.75,40,550,0,25,20
+Veigar,Yordle,Sorcerer,,3,25,0.55,45,500,75,20,20
+Volibear,Glacial ,Brawler,,3,41,0.55,75,700,75,30,20
+Warwick,Wild,Brawler,,1,30,0.60,50,600,150,30,20
+Yasuo,Exile,Blademaster,,,75,1,75,700,25,35,20
+Zed,Ninja,Assassin,,2,42,0.65,65,500,75,25,20
